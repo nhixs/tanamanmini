@@ -22,8 +22,8 @@
 				<div class="slide-1"></div>
 				<div class="hero">
 					<hgroup>
-						<h1>Kue Enak</h1>
-						<h3>Beli lah kue enak</h3>
+						<h1>Delivering Plants</h1>
+						<h1>Delivering Happiness</h1>
 					</hgroup>
 					<button class="btn btn-hero btn-lg" role="button">See all features</button>
 				</div>
