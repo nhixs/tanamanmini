@@ -1,0 +1,68 @@
+#body {
+    font-family: Montserrat;
+}
+.adminLogo {
+    width: 300px;
+}
+.container .login-box-body {
+    background-color: #fff9e6;
+}
+
+.bg-primary {
+    background-color: #fff9e6;
+
+}
+.form-control  {
+    border-radius: 50px;
+    border: 1px solid;
+
+    width: 25em;
+}
+
+.form-control.email  {
+    border-radius: 50px;
+    border: 1px solid;
+
+    width: 18em;
+}
+.form-control.password  {
+    border-radius: 50px;
+    border: 1px solid;
+
+    width: 18em;
+}
+
+.btn-login{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: #5f9861;
+    color: #fff9e6;
+    width: 86px;
+}
+
+.btn-login:hover{ 
+    background-color:#334d36; 
+}
+
+.skin-blue .main-header .logo{
+    background-color:#5f9861 !important;
+}
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+    background-color:#334d36 !important;
+}
+.skin-blue .main-header .navbar {
+    background-color:#5f9861 !important;
+}
+
+.content-wrapper {
+    background-color: #fff9e6; 
+}
+
+.textarea{
+    border: .5px solid;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 48em;
+}
