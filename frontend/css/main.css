@@ -40,9 +40,9 @@ Image credits: unsplash.com
     left: 50%;
     z-index: 3;
     color: #fff;
-    text-align: center;
+    text-align: end;
     text-transform: uppercase;
-    text-shadow: 1px 1px 0 rgba(9, 247, 108, 0.75);
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75);
       -webkit-transform: translate3d(-50%,-50%,0);
          -moz-transform: translate3d(-50%,-50%,0);
           -ms-transform: translate3d(-50%,-50%,0);
@@ -50,7 +50,9 @@ Image credits: unsplash.com
               transform: translate3d(-50%,-50%,0);
   }
   .hero h1 {
-    font-size: 6em;    
+    color: #06ad3e;
+    font-family: 'Indie Flower', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5em;    
     font-weight: bold;
     margin: 0;
     padding: 0;

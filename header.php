@@ -13,6 +13,8 @@
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Hind:400,700" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
 
 	<!-- Bootstrap -->
 	<link type="text/css" rel="stylesheet" href="frontend/css/bootstrap.min.css" />

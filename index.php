@@ -20,7 +20,7 @@
 		<div class="carousel-inner">
 			<div class="item slides active">
 				<div class="slide-1"></div>
-				<div class="hero">
+				<div class="hero col-md-4">
 					<hgroup>
 						<h1>Delivering Plants</h1>
 						<h1>Delivering Happiness</h1>
