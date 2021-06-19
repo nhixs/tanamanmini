@@ -28,7 +28,7 @@
 					<button class="btn btn-hero btn-lg" role="button">See all features</button>
 				</div>
 			</div>
-			<div class="item slides">
+			<!-- <div class="item slides">
 				<div class="slide-2"></div>
 				<div class="hero">
 					<hgroup>
@@ -46,7 +46,7 @@
 					</hgroup>
 					<button class="btn btn-hero btn-lg" role="button">See all features</button>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 
